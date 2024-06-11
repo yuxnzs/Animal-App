@@ -14,8 +14,7 @@
 
 ### 起始畫面
 
-![起始畫面1](./assets/start-screen1.png)
-![起始畫面2](./assets/start-screen2.png)
+![起始畫面](./assets/start-screen.png)
 
 ### 貓狗資訊
 
@@ -23,8 +22,7 @@
 
 ### 翻譯功能
 
-![翻譯功能1](./assets/translation-feature1.png)
-![翻譯功能2](./assets/translation-feature2.png)
+![翻譯功能1](./assets/translation-feature.png)
 
 ## 使用技術 🔧
 
